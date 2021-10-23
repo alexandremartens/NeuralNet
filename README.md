@@ -1,2 +1,2 @@
 # NeuralNet
-Pour Ada la paumée
+Neural Network from scratch in java.
